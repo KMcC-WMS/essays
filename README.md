@@ -1,6 +1,6 @@
 #Macbeth, Act 1, scene1[^1]
 ##Three witches plan to meet Macbeth.
-<p style="text-align:center; color:gray;"><em>Thunder and Lightning. Enter three Witches.</em></p>
+###Thunder and Lightning. ==Enter three Witches=={Q115519012}.
 
 .ve-media https://digitalcollections.folger.edu/node/100241/manifest-single right
 <p><span style="color:gray;"><em>FIRST WITCH</em></span></br>
